@@ -1,6 +1,6 @@
-# Crop Yield Prediction System
+# Crop Yield Predictor
 
-This project is a crop yield prediction system that predicts the yield of a crop based on various factors such as country, year, rainfall, pesticides, and temperature. It provides a user-friendly interface built with Streamlit.
+This project is a crop yield predictor that predicts the yield of a crop based on various factors such as country, year, rainfall, pesticides, and temperature. It provides a user-friendly interface built with Streamlit.
 
 ## Features
 
